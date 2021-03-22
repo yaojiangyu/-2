@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="yao_text_color" format="color"></attr>
+        <attr name="yao_text_size" format="dimension"></attr>
+    </declare-styleable>
+</resources>
